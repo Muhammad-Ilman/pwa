@@ -10,7 +10,7 @@
 
         {
 
-            "src": "/favicon.ico",
+            "src": "https://pramukaku304.blogspot.com/favicon.ico",
 
             "sizes": "256x256",
 
@@ -20,7 +20,7 @@
 
     ],
 
-    "start_url": "/",
+    "start_url": "https://pramukaku304.blogspot.com/",
 
     "display": "standalone",
 
