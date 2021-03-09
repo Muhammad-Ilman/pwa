@@ -1,12 +1,12 @@
-const CACHE_NAME = 'CACHE-01';
+const CACHE_NAME = 'CACHE-001';
 
 const toCache = [
 
     '/',
 
-    'https://github.com/muhammad-ilman/pwa/manifest.json',
+    'https://muhammad-ilman.github.io/pwa/manifest.json',
 
-    'https://github.com/muhammad-ilman/pwa/register.js',
+    'https://muhammad-ilman.github.io/pwa/register.js',
 
     'https://pramukaku304.blogspot.com/favicon.ico',
 
