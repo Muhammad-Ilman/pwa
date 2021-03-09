@@ -4,7 +4,7 @@ function init() {
 
     if ('serviceWorker' in navigator && navigator.onLine) {
 
-        navigator.serviceWorker.register('https://github.com/muhammad-ilman/pwa/service-worker.js')
+        navigator.serviceWorker.register('https://muhammad-ilman.github.io/pwa/service-worker.js')
 
         .then((reg) => {
 
